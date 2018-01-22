@@ -1,0 +1,25 @@
+html{
+  background-image: url("../img/brillant.png");
+}
+
+.nav-wrapper{
+  background-color: #fff;
+}
+
+.nav-wrapper #nav-mobile li a{
+    color: #26a69a;
+}
+
+footer.page-footer{
+  background-color: #ffffff;
+}
+
+footer.page-footer h5,p,a{
+  color: #26a69a;
+}
+
+.footer-copyright .container{
+  color: #26a69a;
+  margin-top: 200px;
+  margin-left: 350px;
+}
